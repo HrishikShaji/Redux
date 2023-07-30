@@ -5,7 +5,7 @@ import { useDispatch } from "react-redux";
 
 const ReduxFour = () => {
   const dispatch = useDispatch();
-  return <div className="bg-gray-600 p-10"></div>;
+  return <div className="bg-gray-600 p-10">Redux four</div>;
 };
 
 export default ReduxFour;
